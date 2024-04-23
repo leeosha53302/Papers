@@ -1,5 +1,5 @@
 # CIKM23 用于商家激励的酒店搜索排序模型
-[MERIT: A Merchant Incentive Ranking Model for Hotel Search & Ranking] (https://github.com/leeosha53302/Papers/blob/main/MERIT_A%20Merchant%20Incentive%20Ranking%20Model%20for%20Hotel%20Search%20%26%20Ranking_CIKM23.pdf)
+[MERIT: A Merchant Incentive Ranking Model for Hotel Search & Ranking](https://github.com/leeosha53302/Papers/blob/main/MERIT_A%20Merchant%20Incentive%20Ranking%20Model%20for%20Hotel%20Search%20%26%20Ranking_CIKM23.pdf)
 Shigang Quan,Hailong Tan,**Shui Liu**,etc.
 
 # CIKM23 时间序列视角下的复购推荐模型 
